@@ -613,7 +613,7 @@ main .container .right{
     }
 }
 
-@media screen and (max-width: 992px){
+@media screen and (max-width: 900px){
     nav .search-bar{
         display: none;
     }
@@ -641,6 +641,7 @@ main .container .right{
   
     main .container .middle{
         grid-column: 1/3;
+        
     }
     main .container .right{
         display: none;
